@@ -1,0 +1,1226 @@
+team,season_year,home_win_pct,rank_that_season
+"Denver Nuggets",2022,83.3,1
+"Memphis Grizzlies",2022,82.6,2
+"Golden State Warriors",2022,76.5,3
+"Cleveland Cavaliers",2022,71.7,4
+"Philadelphia 76ers",2022,70.8,5
+"Boston Celtics",2022,70.4,6
+"Milwaukee Bucks",2022,70.2,7
+"New Orleans Pelicans",2022,67.4,8
+"Toronto Raptors",2022,65.9,9
+"Phoenix Suns",2022,65.3,10
+"Miami Heat",2022,64.8,11
+"New York Knicks",2022,61.2,12
+"Oklahoma City Thunder",2022,59.1,13
+"Atlanta Hawks",2022,57.8,14
+"Sacramento Kings",2022,57.4,15
+"Dallas Mavericks",2022,54.8,16
+"Los Angeles Lakers",2022,54.7,17
+"Chicago Bulls",2022,54.5,18
+"Utah Jazz",2022,53.5,19
+"LA Clippers",2022,53.2,20
+"Minnesota Timberwolves",2022,52.3,21
+"Orlando Magic",2022,51.2,22
+"Brooklyn Nets",2022,51.1,23
+"Indiana Pacers",2022,48.8,24
+"Washington Wizards",2022,45.2,25
+"Portland Trail Blazers",2022,41.9,26
+"Houston Rockets",2022,37.2,27
+"San Antonio Spurs",2022,31.8,28
+"Charlotte Hornets",2022,29.5,29
+"Detroit Pistons",2022,20.9,30
+"Golden State Warriors",2021,80.4,1
+"Phoenix Suns",2021,78.0,2
+"Dallas Mavericks",2021,72.5,3
+"Miami Heat",2021,72.2,4
+"Memphis Grizzlies",2021,72.0,5
+"Utah Jazz",2021,69.6,6
+"Boston Celtics",2021,65.5,7
+"Chicago Bulls",2021,65.2,8
+"Atlanta Hawks",2021,64.4,9
+"Milwaukee Bucks",2021,63.3,10
+"Minnesota Timberwolves",2021,62.2,11
+"Philadelphia 76ers",2021,61.2,12
+"LA Clippers",2021,59.1,13
+"Toronto Raptors",2021,58.7,14
+"Cleveland Cavaliers",2021,58.1,15
+"Denver Nuggets",2021,54.5,16
+"Charlotte Hornets",2021,51.2,17
+"Brooklyn Nets",2021,48.9,18
+"Washington Wizards",2021,48.8,19
+"Los Angeles Lakers",2021,47.7,20
+"New Orleans Pelicans",2021,46.7,21
+"New York Knicks",2021,45.5,22
+"Sacramento Kings",2021,41.9,23
+"San Antonio Spurs",2021,40.9,24
+"Portland Trail Blazers",2021,39.5,25
+"Indiana Pacers",2021,39.5,25
+"Detroit Pistons",2021,34.9,27
+"Orlando Magic",2021,30.2,28
+"Oklahoma City Thunder",2021,29.5,29
+"Houston Rockets",2021,27.9,30
+"Utah Jazz",2020,84.1,1
+"Brooklyn Nets",2020,79.5,2
+"Philadelphia 76ers",2020,77.3,3
+"Milwaukee Bucks",2020,73.5,4
+"Phoenix Suns",2020,71.4,5
+"Golden State Warriors",2020,70.3,6
+"New York Knicks",2020,68.3,7
+"Denver Nuggets",2020,67.4,8
+"LA Clippers",2020,66.0,9
+"Atlanta Hawks",2020,65.2,10
+"Los Angeles Lakers",2020,58.5,11
+"Boston Celtics",2020,56.4,12
+"Miami Heat",2020,53.8,13
+"Portland Trail Blazers",2020,53.7,14
+"Washington Wizards",2020,52.5,15
+"Dallas Mavericks",2020,52.5,15
+"New Orleans Pelicans",2020,51.4,17
+"Memphis Grizzlies",2020,47.5,18
+"Charlotte Hornets",2020,47.4,19
+"Sacramento Kings",2020,44.7,20
+"Toronto Raptors",2020,43.2,21
+"Chicago Bulls",2020,42.1,22
+"Cleveland Cavaliers",2020,39.5,23
+"San Antonio Spurs",2020,37.8,24
+"Detroit Pistons",2020,36.8,25
+"Indiana Pacers",2020,35.1,26
+"Minnesota Timberwolves",2020,34.2,27
+"Orlando Magic",2020,31.6,28
+"Houston Rockets",2020,28.9,29
+"Oklahoma City Thunder",2020,26.3,30
+"Philadelphia 76ers",2019,83.8,1
+"Milwaukee Bucks",2019,78.0,2
+"Miami Heat",2019,76.1,3
+"Los Angeles Lakers",2019,72.3,4
+"LA Clippers",2019,69.8,5
+"Denver Nuggets",2019,67.4,6
+"Toronto Raptors",2019,66.7,7
+"Houston Rockets",2019,66.7,7
+"Boston Celtics",2019,65.9,9
+"Indiana Pacers",2019,65.8,10
+"Utah Jazz",2019,65.8,10
+"Oklahoma City Thunder",2019,65.0,12
+"San Antonio Spurs",2019,55.9,13
+"Portland Trail Blazers",2019,55.3,14
+"Memphis Grizzlies",2019,54.1,15
+"Brooklyn Nets",2019,52.6,16
+"Dallas Mavericks",2019,51.2,17
+"Orlando Magic",2019,48.6,18
+"Sacramento Kings",2019,45.7,19
+"Washington Wizards",2019,44.4,20
+"Phoenix Suns",2019,43.6,21
+"New Orleans Pelicans",2019,41.7,22
+"Atlanta Hawks",2019,41.2,23
+"Chicago Bulls",2019,41.2,23
+"Detroit Pistons",2019,33.3,25
+"New York Knicks",2019,33.3,25
+"Charlotte Hornets",2019,32.3,27
+"Cleveland Cavaliers",2019,30.6,28
+"Minnesota Timberwolves",2019,25.0,29
+"Golden State Warriors",2019,23.5,30
+"Milwaukee Bucks",2018,79.6,1
+"Denver Nuggets",2018,79.6,1
+"San Antonio Spurs",2018,77.3,3
+"Houston Rockets",2018,76.6,4
+"Toronto Raptors",2018,75.9,5
+"Portland Trail Blazers",2018,75.5,6
+"Philadelphia 76ers",2018,74.5,7
+"Utah Jazz",2018,69.8,8
+"Golden State Warriors",2018,69.2,9
+"Indiana Pacers",2018,67.4,10
+"Boston Celtics",2018,66.7,11
+"Oklahoma City Thunder",2018,65.1,12
+"Charlotte Hornets",2018,61.0,13
+"Minnesota Timberwolves",2018,61.0,13
+"Detroit Pistons",2018,60.5,15
+"LA Clippers",2018,59.1,16
+"Sacramento Kings",2018,58.5,17
+"Dallas Mavericks",2018,58.5,17
+"Orlando Magic",2018,58.1,19
+"Washington Wizards",2018,53.7,20
+"Los Angeles Lakers",2018,53.7,20
+"Brooklyn Nets",2018,53.5,22
+"Memphis Grizzlies",2018,51.2,23
+"New Orleans Pelicans",2018,46.3,24
+"Miami Heat",2018,46.3,24
+"Atlanta Hawks",2018,41.5,26
+"Cleveland Cavaliers",2018,31.7,27
+"Phoenix Suns",2018,29.3,28
+"New York Knicks",2018,22.0,29
+"Chicago Bulls",2018,22.0,29
+"Toronto Raptors",2017,81.3,1
+"Houston Rockets",2017,79.2,2
+"San Antonio Spurs",2017,78.3,3
+"Denver Nuggets",2017,73.8,4
+"Golden State Warriors",2017,72.7,5
+"Boston Celtics",2017,72.2,6
+"Minnesota Timberwolves",2017,70.5,7
+"Utah Jazz",2017,69.4,8
+"Philadelphia 76ers",2017,69.4,8
+"Cleveland Cavaliers",2017,67.3,10
+"Indiana Pacers",2017,66.7,11
+"Oklahoma City Thunder",2017,66.0,12
+"Portland Trail Blazers",2017,65.2,13
+"Milwaukee Bucks",2017,63.0,14
+"Miami Heat",2017,63.0,14
+"Detroit Pistons",2017,61.4,16
+"Washington Wizards",2017,59.6,17
+"New Orleans Pelicans",2017,58.7,18
+"LA Clippers",2017,53.3,19
+"Charlotte Hornets",2017,51.2,20
+"Los Angeles Lakers",2017,45.7,21
+"Orlando Magic",2017,43.2,22
+"New York Knicks",2017,43.2,22
+"Dallas Mavericks",2017,40.9,24
+"Memphis Grizzlies",2017,40.9,24
+"Chicago Bulls",2017,40.9,24
+"Atlanta Hawks",2017,39.5,27
+"Brooklyn Nets",2017,38.6,28
+"Sacramento Kings",2017,34.9,29
+"Phoenix Suns",2017,25.0,30
+"Golden State Warriors",2016,90.6,1
+"Washington Wizards",2016,76.0,2
+"Cleveland Cavaliers",2016,73.6,3
+"San Antonio Spurs",2016,73.1,4
+"Houston Rockets",2016,72.5,5
+"Indiana Pacers",2016,68.9,6
+"Boston Celtics",2016,68.5,7
+"Oklahoma City Thunder",2016,67.4,8
+"LA Clippers",2016,66.7,9
+"Toronto Raptors",2016,65.3,10
+"Utah Jazz",2016,63.3,11
+"Memphis Grizzlies",2016,59.6,12
+"Portland Trail Blazers",2016,57.8,13
+"Atlanta Hawks",2016,57.4,14
+"Detroit Pistons",2016,56.8,15
+"Milwaukee Bucks",2016,55.3,16
+"Chicago Bulls",2016,55.1,17
+"Charlotte Hornets",2016,54.5,18
+"Miami Heat",2016,54.3,19
+"Denver Nuggets",2016,53.5,20
+"Dallas Mavericks",2016,52.3,21
+"Minnesota Timberwolves",2016,52.3,21
+"New Orleans Pelicans",2016,50.0,23
+"New York Knicks",2016,47.7,24
+"Sacramento Kings",2016,43.2,25
+"Philadelphia 76ers",2016,40.9,26
+"Orlando Magic",2016,40.0,27
+"Los Angeles Lakers",2016,38.8,28
+"Phoenix Suns",2016,38.6,29
+"Brooklyn Nets",2016,31.8,30
+"San Antonio Spurs",2015,91.8,1
+"Golden State Warriors",2015,89.7,2
+"Toronto Raptors",2015,78.6,3
+"Oklahoma City Thunder",2015,77.4,4
+"Cleveland Cavaliers",2015,76.8,5
+"Charlotte Hornets",2015,74.5,6
+"LA Clippers",2015,70.8,7
+"Boston Celtics",2015,70.2,8
+"Portland Trail Blazers",2015,69.4,9
+"Miami Heat",2015,67.3,10
+"Indiana Pacers",2015,64.6,11
+"Memphis Grizzlies",2015,63.8,12
+"Atlanta Hawks",2015,63.3,13
+"Chicago Bulls",2015,63.0,14
+"Orlando Magic",2015,57.8,15
+"Detroit Pistons",2015,57.4,16
+"Utah Jazz",2015,56.8,17
+"Houston Rockets",2015,55.3,18
+"Milwaukee Bucks",2015,54.5,19
+"Washington Wizards",2015,54.5,19
+"New Orleans Pelicans",2015,50.0,21
+"Dallas Mavericks",2015,50.0,21
+"New York Knicks",2015,47.7,23
+"Sacramento Kings",2015,46.5,24
+"Denver Nuggets",2015,46.5,24
+"Phoenix Suns",2015,36.4,26
+"Minnesota Timberwolves",2015,35.6,27
+"Brooklyn Nets",2015,34.1,28
+"Los Angeles Lakers",2015,30.6,29
+"Philadelphia 76ers",2015,20.5,30
+"Golden State Warriors",2014,92.7,1
+"Atlanta Hawks",2014,80.8,2
+"Portland Trail Blazers",2014,76.1,3
+"Houston Rockets",2014,75.9,4
+"Cleveland Cavaliers",2014,75.0,5
+"San Antonio Spurs",2014,74.5,6
+"Memphis Grizzlies",2014,74.5,6
+"Washington Wizards",2014,68.0,8
+"Los Angeles Clippers",2014,67.9,9
+"Oklahoma City Thunder",2014,66.7,10
+"New Orleans Pelicans",2014,66.0,11
+"Toronto Raptors",2014,66.0,11
+"Dallas Mavericks",2014,63.8,13
+"Chicago Bulls",2014,63.5,14
+"Phoenix Suns",2014,56.8,15
+"Indiana Pacers",2014,56.8,15
+"Milwaukee Bucks",2014,53.2,17
+"Utah Jazz",2014,52.3,18
+"Boston Celtics",2014,50.0,19
+"Brooklyn Nets",2014,50.0,19
+"Detroit Pistons",2014,47.7,21
+"Miami Heat",2014,46.8,22
+"Charlotte Hornets",2014,46.7,23
+"Denver Nuggets",2014,46.5,24
+"Sacramento Kings",2014,45.5,25
+"Orlando Magic",2014,33.3,26
+"Philadelphia 76ers",2014,31.1,27
+"Los Angeles Lakers",2014,30.6,28
+"New York Knicks",2014,25.0,29
+"Minnesota Timberwolves",2014,25.0,29
+"Miami Heat",2013,78.2,1
+"San Antonio Spurs",2013,77.6,2
+"Houston Rockets",2013,77.1,3
+"Los Angeles Clippers",2013,76.9,4
+"Oklahoma City Thunder",2013,76.4,5
+"Indiana Pacers",2013,74.1,6
+"Portland Trail Blazers",2013,72.0,7
+"Brooklyn Nets",2013,67.3,8
+"Golden State Warriors",2013,66.0,9
+"Chicago Bulls",2013,65.3,10
+"Toronto Raptors",2013,64.0,11
+"Phoenix Suns",2013,63.6,12
+"Memphis Grizzlies",2013,62.5,13
+"Dallas Mavericks",2013,60.4,14
+"Minnesota Timberwolves",2013,57.8,15
+"Charlotte Bobcats",2013,57.4,16
+"New Orleans Pelicans",2013,54.5,17
+"Denver Nuggets",2013,53.5,18
+"Atlanta Hawks",2013,53.2,19
+"Washington Wizards",2013,48.0,20
+"Cleveland Cavaliers",2013,46.8,21
+"Sacramento Kings",2013,45.5,22
+"New York Knicks",2013,45.2,23
+"Detroit Pistons",2013,44.4,24
+"Orlando Magic",2013,43.5,25
+"Boston Celtics",2013,40.0,26
+"Utah Jazz",2013,38.6,27
+"Los Angeles Lakers",2013,37.5,28
+"Milwaukee Bucks",2013,25.6,29
+"Philadelphia 76ers",2013,24.4,30
+"Toronto Raptors",2012,100.0,1
+"Minnesota Timberwolves",2012,100.0,1
+"Detroit Pistons",2012,100.0,1
+"Phoenix Suns",2012,100.0,1
+"Utah Jazz",2012,100.0,1
+"Indiana Pacers",2012,91.7,6
+"Atlanta Hawks",2012,83.3,7
+"San Antonio Spurs",2012,78.6,8
+"Golden State Warriors",2012,77.8,9
+"Philadelphia 76ers",2012,75.0,10
+"Dallas Mavericks",2012,75.0,10
+"Memphis Grizzlies",2012,72.7,12
+"Oklahoma City Thunder",2012,70.0,13
+"Sacramento Kings",2012,66.7,14
+"Miami Heat",2012,66.7,14
+"Portland Trail Blazers",2012,66.7,14
+"New York Knicks",2012,66.7,14
+"Chicago Bulls",2012,63.6,18
+"Los Angeles Clippers",2012,62.5,19
+"Denver Nuggets",2012,60.0,20
+"Houston Rockets",2012,57.1,21
+"Orlando Magic",2012,50.0,22
+"Cleveland Cavaliers",2012,40.0,23
+"Brooklyn Nets",2012,37.5,24
+"Boston Celtics",2012,28.6,25
+"Charlotte Bobcats",2012,25.0,26
+"Milwaukee Bucks",2012,16.7,27
+"Los Angeles Lakers",2012,0.0,28
+"Washington Wizards",2012,0.0,28
+"San Antonio Spurs",2011,85.4,1
+"Miami Heat",2011,85.1,2
+"Oklahoma City Thunder",2011,81.8,3
+"Chicago Bulls",2011,78.4,4
+"Los Angeles Lakers",2011,75.0,5
+"Boston Celtics",2011,75.0,5
+"Memphis Grizzlies",2011,73.7,7
+"Utah Jazz",2011,72.2,8
+"Atlanta Hawks",2011,70.3,9
+"Los Angeles Clippers",2011,69.2,10
+"Houston Rockets",2011,67.6,11
+"New York Knicks",2011,66.7,12
+"Indiana Pacers",2011,65.0,13
+"Dallas Mavericks",2011,63.9,14
+"Philadelphia 76ers",2011,62.5,15
+"Denver Nuggets",2011,62.2,16
+"Portland Trail Blazers",2011,61.8,17
+"Orlando Magic",2011,61.1,18
+"Phoenix Suns",2011,55.9,19
+"Detroit Pistons",2011,52.9,20
+"Sacramento Kings",2011,50.0,21
+"Milwaukee Bucks",2011,50.0,21
+"Minnesota Timberwolves",2011,41.2,23
+"Golden State Warriors",2011,38.2,24
+"Toronto Raptors",2011,38.2,24
+"Washington Wizards",2011,32.4,26
+"Cleveland Cavaliers",2011,32.4,26
+"Charlotte Bobcats",2011,14.7,28
+"San Antonio Spurs",2010,85.4,1
+"Chicago Bulls",2010,83.3,2
+"Boston Celtics",2010,81.6,3
+"Denver Nuggets",2010,80.4,4
+"Memphis Grizzlies",2010,76.5,5
+"Miami Heat",2010,75.0,6
+"Portland Trail Blazers",2010,72.9,7
+"Orlando Magic",2010,72.9,7
+"Oklahoma City Thunder",2010,71.7,9
+"Dallas Mavericks",2010,71.4,10
+"Los Angeles Lakers",2010,69.2,11
+"Golden State Warriors",2010,65.9,12
+"Philadelphia 76ers",2010,63.0,13
+"Houston Rockets",2010,60.9,14
+"Indiana Pacers",2010,58.7,15
+"Atlanta Hawks",2010,58.0,16
+"Utah Jazz",2010,54.5,17
+"Milwaukee Bucks",2010,54.5,17
+"Phoenix Suns",2010,54.3,19
+"New York Knicks",2010,54.3,19
+"Charlotte Bobcats",2010,53.3,21
+"Detroit Pistons",2010,52.2,22
+"Los Angeles Clippers",2010,51.1,23
+"Washington Wizards",2010,48.8,24
+"Toronto Raptors",2010,41.3,25
+"Minnesota Timberwolves",2010,36.2,26
+"Cleveland Cavaliers",2010,34.0,27
+"Sacramento Kings",2010,29.5,28
+"Los Angeles Lakers",2009,83.6,1
+"Orlando Magic",2009,82.7,2
+"Denver Nuggets",2009,82.6,3
+"Cleveland Cavaliers",2009,80.8,4
+"Atlanta Hawks",2009,80.0,5
+"Utah Jazz",2009,77.1,6
+"Phoenix Suns",2009,74.5,7
+"Dallas Mavericks",2009,68.8,8
+"Charlotte Bobcats",2009,68.8,8
+"Milwaukee Bucks",2009,68.1,10
+"San Antonio Spurs",2009,68.0,11
+"Oklahoma City Thunder",2009,64.6,12
+"Boston Celtics",2009,64.3,13
+"Portland Trail Blazers",2009,60.4,14
+"Chicago Bulls",2009,60.4,14
+"Toronto Raptors",2009,57.8,16
+"Indiana Pacers",2009,57.8,16
+"Miami Heat",2009,57.4,18
+"Los Angeles Clippers",2009,56.5,19
+"Memphis Grizzlies",2009,55.6,20
+"Houston Rockets",2009,55.6,20
+"New York Knicks",2009,47.8,22
+"Golden State Warriors",2009,46.5,23
+"Detroit Pistons",2009,43.5,24
+"Sacramento Kings",2009,43.2,25
+"Washington Wizards",2009,37.2,26
+"Philadelphia 76ers",2009,31.8,27
+"Minnesota Timberwolves",2009,26.7,28
+"Cleveland Cavaliers",2008,90.4,1
+"Los Angeles Lakers",2008,85.2,2
+"Houston Rockets",2008,82.0,3
+"Boston Celtics",2008,81.1,4
+"Denver Nuggets",2008,80.8,5
+"Portland Trail Blazers",2008,79.2,6
+"Utah Jazz",2008,77.8,7
+"Dallas Mavericks",2008,75.5,8
+"Orlando Magic",2008,75.4,9
+"Atlanta Hawks",2008,70.0,10
+"Phoenix Suns",2008,68.2,11
+"Miami Heat",2008,66.0,12
+"Chicago Bulls",2008,65.3,13
+"San Antonio Spurs",2008,62.5,14
+"Indiana Pacers",2008,62.2,15
+"Philadelphia 76ers",2008,55.3,16
+"Golden State Warriors",2008,54.5,17
+"Charlotte Bobcats",2008,53.5,18
+"Milwaukee Bucks",2008,51.1,19
+"Detroit Pistons",2008,50.0,20
+"New York Knicks",2008,45.5,21
+"Toronto Raptors",2008,43.5,22
+"Memphis Grizzlies",2008,40.0,23
+"Oklahoma City Thunder",2008,36.6,24
+"Minnesota Timberwolves",2008,31.1,25
+"Washington Wizards",2008,30.2,26
+"Sacramento Kings",2008,26.7,27
+"Los Angeles Clippers",2008,24.4,28
+"Boston Celtics",2007,86.2,1
+"San Antonio Spurs",2007,84.6,2
+"Utah Jazz",2007,84.0,3
+"Dallas Mavericks",2007,83.0,4
+"Detroit Pistons",2007,80.0,5
+"Denver Nuggets",2007,78.3,6
+"Los Angeles Lakers",2007,72.4,7
+"Houston Rockets",2007,72.3,8
+"Phoenix Suns",2007,71.7,9
+"Portland Trail Blazers",2007,70.5,10
+"Golden State Warriors",2007,65.1,11
+"Cleveland Cavaliers",2007,64.7,12
+"Orlando Magic",2007,64.7,12
+"Atlanta Hawks",2007,64.6,14
+"Toronto Raptors",2007,63.0,15
+"Sacramento Kings",2007,62.2,16
+"Washington Wizards",2007,60.9,17
+"Indiana Pacers",2007,53.3,18
+"Chicago Bulls",2007,53.3,18
+"Charlotte Bobcats",2007,50.0,20
+"Philadelphia 76ers",2007,50.0,20
+"Milwaukee Bucks",2007,46.7,22
+"New York Knicks",2007,40.9,23
+"Memphis Grizzlies",2007,38.6,24
+"Minnesota Timberwolves",2007,34.9,25
+"Los Angeles Clippers",2007,34.1,26
+"Miami Heat",2007,20.5,27
+"Dallas Mavericks",2006,83.3,1
+"Utah Jazz",2006,78.4,2
+"Phoenix Suns",2006,76.5,3
+"Golden State Warriors",2006,75.5,4
+"San Antonio Spurs",2006,75.0,5
+"Toronto Raptors",2006,75.0,5
+"Chicago Bulls",2006,74.5,7
+"Houston Rockets",2006,69.4,8
+"Cleveland Cavaliers",2006,66.7,9
+"Detroit Pistons",2006,64.8,10
+"Miami Heat",2006,60.9,11
+"Los Angeles Lakers",2006,60.0,12
+"Los Angeles Clippers",2006,60.0,12
+"Washington Wizards",2006,59.1,14
+"Orlando Magic",2006,57.4,15
+"Philadelphia 76ers",2006,53.3,16
+"Indiana Pacers",2006,53.3,16
+"Denver Nuggets",2006,53.2,18
+"Sacramento Kings",2006,51.1,19
+"New York Knicks",2006,50.0,20
+"Minnesota Timberwolves",2006,48.9,21
+"Charlotte Bobcats",2006,45.7,22
+"Atlanta Hawks",2006,44.4,23
+"Milwaukee Bucks",2006,44.4,23
+"Portland Trail Blazers",2006,43.2,25
+"Memphis Grizzlies",2006,35.6,26
+"Boston Celtics",2006,31.1,27
+"Detroit Pistons",2005,89.1,1
+"Dallas Mavericks",2005,82.2,2
+"San Antonio Spurs",2005,75.6,3
+"Phoenix Suns",2005,75.6,3
+"Cleveland Cavaliers",2005,75.6,3
+"Miami Heat",2005,73.9,6
+"Memphis Grizzlies",2005,73.3,7
+"Los Angeles Lakers",2005,66.7,8
+"Indiana Pacers",2005,66.7,8
+"Orlando Magic",2005,65.1,10
+"Los Angeles Clippers",2005,65.1,10
+"Washington Wizards",2005,65.1,10
+"Denver Nuggets",2005,64.4,13
+"Sacramento Kings",2005,62.2,14
+"Milwaukee Bucks",2005,61.4,15
+"Minnesota Timberwolves",2005,57.8,16
+"Philadelphia 76ers",2005,53.3,17
+"Boston Celtics",2005,53.3,17
+"Chicago Bulls",2005,52.3,19
+"Utah Jazz",2005,51.2,20
+"Golden State Warriors",2005,50.0,21
+"Atlanta Hawks",2005,45.5,22
+"Charlotte Bobcats",2005,43.2,23
+"Houston Rockets",2005,42.2,24
+"Toronto Raptors",2005,37.8,25
+"Portland Trail Blazers",2005,34.8,26
+"New York Knicks",2005,34.1,27
+"San Antonio Spurs",2004,88.7,1
+"Miami Heat",2004,83.7,2
+"Detroit Pistons",2004,77.4,3
+"Denver Nuggets",2004,72.1,4
+"Sacramento Kings",2004,72.1,4
+"Phoenix Suns",2004,71.4,6
+"Cleveland Cavaliers",2004,70.7,7
+"Washington Wizards",2004,69.6,8
+"Dallas Mavericks",2004,66.7,9
+"Los Angeles Clippers",2004,65.9,10
+"Chicago Bulls",2004,65.9,10
+"Boston Celtics",2004,62.2,12
+"Houston Rockets",2004,61.4,13
+"Memphis Grizzlies",2004,60.5,14
+"Philadelphia 76ers",2004,60.5,14
+"Minnesota Timberwolves",2004,58.5,16
+"Orlando Magic",2004,58.5,16
+"Indiana Pacers",2004,57.4,18
+"Milwaukee Bucks",2004,56.1,19
+"Los Angeles Lakers",2004,53.7,20
+"Toronto Raptors",2004,53.7,20
+"New York Knicks",2004,53.7,20
+"Golden State Warriors",2004,48.8,23
+"Utah Jazz",2004,43.9,24
+"Portland Trail Blazers",2004,43.9,24
+"Charlotte Bobcats",2004,34.1,26
+"Atlanta Hawks",2004,22.0,27
+"Dallas Mavericks",2003,86.0,1
+"Los Angeles Lakers",2003,84.6,2
+"Sacramento Kings",2003,83.0,3
+"Indiana Pacers",2003,81.6,4
+"San Antonio Spurs",2003,80.4,5
+"Minnesota Timberwolves",2003,76.5,6
+"Detroit Pistons",2003,75.9,7
+"Miami Heat",2003,72.9,8
+"Memphis Grizzlies",2003,72.1,9
+"Denver Nuggets",2003,69.8,10
+"Utah Jazz",2003,68.3,11
+"Golden State Warriors",2003,65.9,12
+"Houston Rockets",2003,65.1,13
+"Milwaukee Bucks",2003,62.8,14
+"Portland Trail Blazers",2003,61.0,15
+"Cleveland Cavaliers",2003,56.1,16
+"New York Knicks",2003,53.5,17
+"Philadelphia 76ers",2003,51.2,18
+"Boston Celtics",2003,44.2,19
+"Toronto Raptors",2003,43.9,20
+"Phoenix Suns",2003,43.9,20
+"Los Angeles Clippers",2003,43.9,20
+"Atlanta Hawks",2003,43.9,20
+"Washington Wizards",2003,41.5,24
+"Chicago Bulls",2003,34.1,25
+"Orlando Magic",2003,26.8,26
+"Sacramento Kings",2002,85.1,1
+"San Antonio Spurs",2002,77.4,2
+"Indiana Pacers",2002,77.3,3
+"Minnesota Timberwolves",2002,77.3,3
+"Dallas Mavericks",2002,75.0,5
+"Los Angeles Lakers",2002,74.5,6
+"Detroit Pistons",2002,72.0,7
+"Phoenix Suns",2002,70.5,8
+"Utah Jazz",2002,69.8,9
+"Houston Rockets",2002,68.3,10
+"Portland Trail Blazers",2002,65.9,11
+"Chicago Bulls",2002,65.9,11
+"Orlando Magic",2002,63.6,13
+"Atlanta Hawks",2002,63.4,14
+"Philadelphia 76ers",2002,61.7,15
+"Boston Celtics",2002,60.9,16
+"Milwaukee Bucks",2002,59.1,17
+"Golden State Warriors",2002,58.5,18
+"New York Knicks",2002,58.5,18
+"Washington Wizards",2002,56.1,20
+"Memphis Grizzlies",2002,48.8,21
+"Los Angeles Clippers",2002,39.0,22
+"Miami Heat",2002,39.0,22
+"Toronto Raptors",2002,36.6,24
+"Cleveland Cavaliers",2002,34.1,25
+"Denver Nuggets",2002,31.7,26
+"Sacramento Kings",2001,87.8,1
+"Los Angeles Lakers",2001,82.9,2
+"San Antonio Spurs",2001,78.0,3
+"Dallas Mavericks",2001,73.2,4
+"Portland Trail Blazers",2001,73.2,4
+"Minnesota Timberwolves",2001,70.7,6
+"Orlando Magic",2001,65.9,7
+"Boston Celtics",2001,65.9,7
+"Detroit Pistons",2001,63.4,9
+"Utah Jazz",2001,61.0,10
+"Indiana Pacers",2001,61.0,10
+"Los Angeles Clippers",2001,61.0,10
+"Milwaukee Bucks",2001,61.0,10
+"Toronto Raptors",2001,58.5,14
+"Phoenix Suns",2001,56.1,15
+"Atlanta Hawks",2001,56.1,15
+"Philadelphia 76ers",2001,53.7,17
+"Washington Wizards",2001,53.7,17
+"Cleveland Cavaliers",2001,48.8,19
+"Denver Nuggets",2001,48.8,19
+"New York Knicks",2001,46.3,21
+"Houston Rockets",2001,43.9,22
+"Miami Heat",2001,43.9,22
+"Memphis Grizzlies",2001,36.6,24
+"Chicago Bulls",2001,34.1,25
+"Golden State Warriors",2001,34.1,25
+"San Antonio Spurs",2000,79.2,1
+"Los Angeles Lakers",2000,77.6,2
+"Milwaukee Bucks",2000,76.0,3
+"Sacramento Kings",2000,75.6,4
+"Phoenix Suns",2000,72.1,5
+"Minnesota Timberwolves",2000,72.1,5
+"Denver Nuggets",2000,70.7,7
+"New York Knicks",2000,70.5,8
+"Dallas Mavericks",2000,68.9,9
+"Utah Jazz",2000,68.2,10
+"Miami Heat",2000,67.4,11
+"Portland Trail Blazers",2000,66.7,12
+"Philadelphia 76ers",2000,66.7,12
+"Toronto Raptors",2000,65.2,14
+"Orlando Magic",2000,62.8,15
+"Indiana Pacers",2000,60.5,16
+"Houston Rockets",2000,58.5,17
+"Los Angeles Clippers",2000,53.7,18
+"Boston Celtics",2000,48.8,19
+"Cleveland Cavaliers",2000,48.8,19
+"Atlanta Hawks",2000,43.9,21
+"Detroit Pistons",2000,43.9,21
+"Washington Wizards",2000,29.3,23
+"Golden State Warriors",2000,26.8,24
+"Chicago Bulls",2000,24.4,25
+"Los Angeles Lakers",1999,87.8,1
+"Indiana Pacers",1999,87.8,1
+"New York Knicks",1999,80.5,3
+"Miami Heat",1999,80.5,3
+"Phoenix Suns",1999,78.0,5
+"San Antonio Spurs",1999,75.6,6
+"Utah Jazz",1999,75.6,6
+"Portland Trail Blazers",1999,73.2,8
+"Sacramento Kings",1999,73.2,8
+"Philadelphia 76ers",1999,70.7,10
+"Detroit Pistons",1999,65.9,11
+"Toronto Raptors",1999,63.4,12
+"Orlando Magic",1999,63.4,12
+"Boston Celtics",1999,63.4,12
+"Minnesota Timberwolves",1999,63.4,12
+"Denver Nuggets",1999,61.0,16
+"Milwaukee Bucks",1999,56.1,17
+"Dallas Mavericks",1999,53.7,18
+"Houston Rockets",1999,53.7,18
+"Cleveland Cavaliers",1999,53.7,18
+"Atlanta Hawks",1999,51.2,21
+"Washington Wizards",1999,41.5,22
+"Chicago Bulls",1999,29.3,23
+"Golden State Warriors",1999,29.3,23
+"Los Angeles Clippers",1999,24.4,25
+"San Antonio Spurs",1998,84.8,1
+"Portland Trail Blazers",1998,84.4,2
+"Utah Jazz",1998,83.9,3
+"Orlando Magic",1998,81.5,4
+"Houston Rockets",1998,74.1,5
+"Indiana Pacers",1998,71.9,6
+"New York Knicks",1998,71.4,7
+"Detroit Pistons",1998,70.4,8
+"Los Angeles Lakers",1998,69.0,9
+"Miami Heat",1998,67.9,10
+"Minnesota Timberwolves",1998,66.7,11
+"Philadelphia 76ers",1998,65.5,12
+"Milwaukee Bucks",1998,65.4,13
+"Atlanta Hawks",1998,63.3,14
+"Sacramento Kings",1998,63.0,15
+"Cleveland Cavaliers",1998,60.0,16
+"Dallas Mavericks",1998,60.0,16
+"Phoenix Suns",1998,57.7,18
+"Toronto Raptors",1998,56.0,19
+"Washington Wizards",1998,52.0,20
+"Golden State Warriors",1998,52.0,20
+"Denver Nuggets",1998,48.0,22
+"Boston Celtics",1998,40.0,23
+"Chicago Bulls",1998,32.0,24
+"Los Angeles Clippers",1998,24.0,25
+"Chicago Bulls",1997,88.7,1
+"Utah Jazz",1997,84.6,2
+"Indiana Pacers",1997,81.6,3
+"Los Angeles Lakers",1997,78.7,4
+"San Antonio Spurs",1997,75.6,5
+"Phoenix Suns",1997,72.1,6
+"Miami Heat",1997,70.5,7
+"Atlanta Hawks",1997,69.8,8
+"New York Knicks",1997,66.7,9
+"Cleveland Cavaliers",1997,65.1,10
+"Minnesota Timberwolves",1997,62.8,11
+"Portland Trail Blazers",1997,62.8,11
+"Detroit Pistons",1997,61.0,13
+"Boston Celtics",1997,58.5,14
+"Orlando Magic",1997,58.5,14
+"Washington Wizards",1997,58.5,14
+"Houston Rockets",1997,58.1,17
+"Milwaukee Bucks",1997,51.2,18
+"Sacramento Kings",1997,51.2,18
+"Philadelphia 76ers",1997,46.3,20
+"Dallas Mavericks",1997,31.7,21
+"Golden State Warriors",1997,29.3,22
+"Los Angeles Clippers",1997,26.8,23
+"Denver Nuggets",1997,22.0,24
+"Toronto Raptors",1997,22.0,24
+"Chicago Bulls",1996,94.2,1
+"Utah Jazz",1996,92.3,2
+"Atlanta Hawks",1996,82.6,3
+"New York Knicks",1996,76.1,4
+"Los Angeles Lakers",1996,75.6,5
+"Detroit Pistons",1996,72.1,6
+"Miami Heat",1996,72.0,7
+"Houston Rockets",1996,72.0,7
+"Portland Trail Blazers",1996,69.8,9
+"Orlando Magic",1996,65.1,10
+"Cleveland Cavaliers",1996,61.0,11
+"Phoenix Suns",1996,60.5,12
+"Minnesota Timberwolves",1996,59.5,13
+"Washington Bullets",1996,59.5,13
+"Sacramento Kings",1996,53.7,15
+"Indiana Pacers",1996,51.2,16
+"Los Angeles Clippers",1996,50.0,17
+"Milwaukee Bucks",1996,48.8,18
+"Golden State Warriors",1996,43.9,19
+"Toronto Raptors",1996,43.9,19
+"Dallas Mavericks",1996,34.1,21
+"Denver Nuggets",1996,29.3,22
+"San Antonio Spurs",1996,29.3,22
+"Boston Celtics",1996,26.8,24
+"Philadelphia 76ers",1996,26.8,24
+"Chicago Bulls",1995,95.1,1
+"Orlando Magic",1995,90.2,2
+"Indiana Pacers",1995,78.0,3
+"Detroit Pistons",1995,73.2,4
+"Los Angeles Lakers",1995,73.2,4
+"Houston Rockets",1995,65.9,6
+"Portland Trail Blazers",1995,63.4,7
+"Sacramento Kings",1995,63.4,7
+"Atlanta Hawks",1995,63.4,7
+"Miami Heat",1995,63.4,7
+"New York Knicks",1995,63.4,7
+"Cleveland Cavaliers",1995,63.4,7
+"Washington Bullets",1995,61.0,13
+"Phoenix Suns",1995,61.0,13
+"Denver Nuggets",1995,58.5,15
+"Los Angeles Clippers",1995,46.3,16
+"Boston Celtics",1995,43.9,17
+"Minnesota Timberwolves",1995,41.5,18
+"Dallas Mavericks",1995,39.0,19
+"Toronto Raptors",1995,36.6,20
+"Milwaukee Bucks",1995,34.1,21
+"Orlando Magic",1994,88.5,1
+"Indiana Pacers",1994,81.6,2
+"Phoenix Suns",1994,76.6,3
+"Los Angeles Lakers",1994,69.6,4
+"New York Knicks",1994,68.1,5
+"Chicago Bulls",1994,67.4,6
+"Sacramento Kings",1994,65.9,7
+"Portland Trail Blazers",1994,61.9,8
+"Houston Rockets",1994,60.8,9
+"Cleveland Cavaliers",1994,60.5,10
+"Atlanta Hawks",1994,57.1,11
+"Denver Nuggets",1994,54.8,12
+"Detroit Pistons",1994,53.7,13
+"Milwaukee Bucks",1994,53.7,13
+"Miami Heat",1994,53.7,13
+"Boston Celtics",1994,46.5,16
+"Dallas Mavericks",1994,46.3,17
+"Washington Bullets",1994,31.7,18
+"Los Angeles Clippers",1994,31.7,18
+"Minnesota Timberwolves",1994,31.7,18
+"Atlanta Hawks",1993,87.8,1
+"Phoenix Suns",1993,87.8,1
+"Houston Rockets",1993,85.4,3
+"New York Knicks",1993,78.0,4
+"Cleveland Cavaliers",1993,75.6,5
+"Orlando Magic",1993,75.6,5
+"Chicago Bulls",1993,75.6,5
+"Portland Trail Blazers",1993,73.2,8
+"Indiana Pacers",1993,70.7,9
+"Denver Nuggets",1993,68.3,10
+"Miami Heat",1993,53.7,11
+"Los Angeles Lakers",1993,51.2,12
+"Sacramento Kings",1993,48.8,13
+"Boston Celtics",1993,43.9,14
+"Los Angeles Clippers",1993,41.5,15
+"Washington Bullets",1993,41.5,15
+"Minnesota Timberwolves",1993,31.7,17
+"Milwaukee Bucks",1993,26.8,18
+"Detroit Pistons",1993,24.4,19
+"Dallas Mavericks",1993,14.6,20
+"New York Knicks",1992,89.8,1
+"Cleveland Cavaliers",1992,80.4,2
+"Phoenix Suns",1992,77.8,3
+"Houston Rockets",1992,76.6,4
+"Chicago Bulls",1992,76.5,5
+"Portland Trail Blazers",1992,72.1,6
+"Detroit Pistons",1992,68.3,7
+"Denver Nuggets",1992,68.3,7
+"Boston Celtics",1992,67.4,9
+"Orlando Magic",1992,65.9,10
+"Los Angeles Clippers",1992,65.1,11
+"Indiana Pacers",1992,65.1,11
+"Miami Heat",1992,63.4,13
+"Atlanta Hawks",1992,59.5,14
+"Los Angeles Lakers",1992,46.5,15
+"Milwaukee Bucks",1992,43.9,16
+"Sacramento Kings",1992,39.0,17
+"Washington Bullets",1992,36.6,18
+"Minnesota Timberwolves",1992,26.8,19
+"Dallas Mavericks",1992,17.1,20
+"Phoenix Suns",1991,86.7,1
+"Chicago Bulls",1991,84.9,2
+"Boston Celtics",1991,82.6,3
+"Cleveland Cavaliers",1991,82.0,4
+"Portland Trail Blazers",1991,80.8,5
+"New York Knicks",1991,72.3,6
+"Los Angeles Clippers",1991,72.1,7
+"Houston Rockets",1991,68.3,8
+"Miami Heat",1991,66.7,9
+"Indiana Pacers",1991,61.9,10
+"Milwaukee Bucks",1991,61.0,11
+"Detroit Pistons",1991,60.5,12
+"Los Angeles Lakers",1991,58.1,13
+"Atlanta Hawks",1991,56.1,14
+"Sacramento Kings",1991,51.2,15
+"Denver Nuggets",1991,43.9,16
+"Dallas Mavericks",1991,36.6,17
+"Washington Bullets",1991,34.1,18
+"Orlando Magic",1991,31.7,19
+"Minnesota Timberwolves",1991,22.0,20
+"Portland Trail Blazers",1990,88.0,1
+"Chicago Bulls",1990,86.0,2
+"Boston Celtics",1990,80.9,3
+"Los Angeles Lakers",1990,76.9,4
+"Phoenix Suns",1990,76.7,5
+"Milwaukee Bucks",1990,76.7,5
+"Houston Rockets",1990,73.8,7
+"Detroit Pistons",1990,73.5,8
+"Atlanta Hawks",1990,69.8,9
+"Indiana Pacers",1990,69.8,9
+"Orlando Magic",1990,58.5,11
+"Sacramento Kings",1990,58.5,11
+"Los Angeles Clippers",1990,56.1,13
+"Cleveland Cavaliers",1990,56.1,13
+"Minnesota Timberwolves",1990,51.2,15
+"Washington Bullets",1990,51.2,15
+"New York Knicks",1990,50.0,17
+"Dallas Mavericks",1990,48.8,18
+"Miami Heat",1990,43.9,19
+"Denver Nuggets",1990,41.5,20
+"Chicago Bulls",1989,89.8,1
+"Los Angeles Lakers",1989,87.0,2
+"Detroit Pistons",1989,86.5,3
+"Portland Trail Blazers",1989,83.0,4
+"Phoenix Suns",1989,77.1,5
+"Houston Rockets",1989,74.4,6
+"Boston Celtics",1989,72.7,7
+"Dallas Mavericks",1989,71.4,8
+"New York Knicks",1989,71.1,9
+"Cleveland Cavaliers",1989,67.4,10
+"Indiana Pacers",1989,66.7,11
+"Denver Nuggets",1989,66.7,11
+"Milwaukee Bucks",1989,65.1,13
+"Atlanta Hawks",1989,61.0,14
+"Los Angeles Clippers",1989,48.8,15
+"Washington Bullets",1989,48.8,15
+"Minnesota Timberwolves",1989,41.5,17
+"Sacramento Kings",1989,39.0,18
+"Orlando Magic",1989,29.3,19
+"Miami Heat",1989,26.8,20
+"Detroit Pistons",1988,90.0,1
+"Cleveland Cavaliers",1988,86.4,2
+"New York Knicks",1988,84.8,3
+"Los Angeles Lakers",1988,83.7,4
+"Denver Nuggets",1988,83.3,5
+"Phoenix Suns",1988,81.3,6
+"Atlanta Hawks",1988,77.3,7
+"Boston Celtics",1988,76.2,8
+"Houston Rockets",1988,74.4,9
+"Washington Bullets",1988,73.2,10
+"Chicago Bulls",1988,71.4,11
+"Milwaukee Bucks",1988,71.1,12
+"Portland Trail Blazers",1988,66.7,13
+"Dallas Mavericks",1988,58.5,14
+"Sacramento Kings",1988,51.2,15
+"Indiana Pacers",1988,48.8,16
+"Los Angeles Clippers",1988,41.5,17
+"Miami Heat",1988,29.3,18
+"Los Angeles Lakers",1987,87.3,1
+"Boston Celtics",1987,84.0,2
+"Detroit Pistons",1987,81.1,3
+"Denver Nuggets",1987,80.9,4
+"Dallas Mavericks",1987,79.6,5
+"Portland Trail Blazers",1987,79.1,6
+"Cleveland Cavaliers",1987,76.7,7
+"Atlanta Hawks",1987,74.5,8
+"Milwaukee Bucks",1987,74.4,9
+"Houston Rockets",1987,72.1,10
+"Chicago Bulls",1987,71.7,11
+"New York Knicks",1987,69.8,12
+"Washington Bullets",1987,62.8,13
+"Indiana Pacers",1987,61.0,14
+"Phoenix Suns",1987,53.7,15
+"Sacramento Kings",1987,46.3,16
+"Los Angeles Clippers",1987,34.1,17
+"Boston Celtics",1986,92.6,1
+"Los Angeles Lakers",1986,92.2,2
+"Dallas Mavericks",1986,83.7,3
+"Atlanta Hawks",1986,82.6,4
+"Portland Trail Blazers",1986,81.4,5
+"Detroit Pistons",1986,81.3,6
+"Milwaukee Bucks",1986,76.6,7
+"Chicago Bulls",1986,69.0,8
+"Indiana Pacers",1986,67.4,9
+"Denver Nuggets",1986,64.3,10
+"Washington Bullets",1986,64.3,10
+"Phoenix Suns",1986,63.4,12
+"Cleveland Cavaliers",1986,61.0,13
+"Houston Rockets",1986,60.9,14
+"Sacramento Kings",1986,48.8,15
+"New York Knicks",1986,43.9,16
+"Los Angeles Clippers",1986,22.0,17
+"Boston Celtics",1985,98.0,1
+"Houston Rockets",1985,88.2,2
+"Los Angeles Lakers",1985,83.7,3
+"Atlanta Hawks",1985,82.2,4
+"Denver Nuggets",1985,80.4,5
+"Milwaukee Bucks",1985,77.6,6
+"Detroit Pistons",1985,74.4,7
+"Dallas Mavericks",1985,65.2,8
+"Portland Trail Blazers",1985,62.8,9
+"Washington Bullets",1985,62.8,9
+"Sacramento Kings",1985,59.5,11
+"Phoenix Suns",1985,56.1,12
+"Los Angeles Clippers",1985,53.7,13
+"Chicago Bulls",1985,52.4,14
+"Indiana Pacers",1985,46.3,15
+"Cleveland Cavaliers",1985,39.0,16
+"New York Knicks",1985,36.6,17
+"Los Angeles Lakers",1984,86.5,1
+"Boston Celtics",1984,84.6,2
+"Milwaukee Bucks",1984,84.4,3
+"Denver Nuggets",1984,79.6,4
+"Portland Trail Blazers",1984,73.3,5
+"Houston Rockets",1984,68.2,6
+"Washington Bullets",1984,67.4,7
+"Detroit Pistons",1984,65.2,8
+"Chicago Bulls",1984,62.8,9
+"Phoenix Suns",1984,61.9,10
+"Dallas Mavericks",1984,58.1,11
+"Cleveland Cavaliers",1984,48.8,12
+"Los Angeles Clippers",1984,48.8,12
+"New York Knicks",1984,46.3,14
+"Atlanta Hawks",1984,46.3,14
+"Indiana Pacers",1984,39.0,16
+"Boston Celtics",1983,83.3,1
+"Portland Trail Blazers",1983,77.3,2
+"Atlanta Hawks",1983,76.7,3
+"Dallas Mavericks",1983,73.9,4
+"Milwaukee Bucks",1983,73.5,5
+"Phoenix Suns",1983,73.5,5
+"New York Knicks",1983,71.7,7
+"Los Angeles Lakers",1983,71.2,8
+"Detroit Pistons",1983,70.5,9
+"Denver Nuggets",1983,65.1,10
+"Washington Bullets",1983,60.5,11
+"Cleveland Cavaliers",1983,56.1,12
+"Houston Rockets",1983,51.2,13
+"Indiana Pacers",1983,48.8,14
+"Chicago Bulls",1983,43.9,15
+"Boston Celtics",1982,77.8,1
+"Phoenix Suns",1982,76.7,2
+"Milwaukee Bucks",1982,75.6,3
+"Los Angeles Lakers",1982,75.5,4
+"Portland Trail Blazers",1982,75.0,5
+"Denver Nuggets",1982,70.5,6
+"Washington Bullets",1982,65.9,7
+"Atlanta Hawks",1982,64.3,8
+"New York Knicks",1982,61.4,9
+"Detroit Pistons",1982,56.1,10
+"Dallas Mavericks",1982,56.1,10
+"Chicago Bulls",1982,43.9,12
+"Cleveland Cavaliers",1982,36.6,13
+"Indiana Pacers",1982,34.1,14
+"Houston Rockets",1982,22.0,15
+"Boston Celtics",1981,81.3,1
+"Los Angeles Lakers",1981,77.1,2
+"Milwaukee Bucks",1981,72.7,3
+"Phoenix Suns",1981,72.7,3
+"Denver Nuggets",1981,69.8,5
+"Portland Trail Blazers",1981,65.9,6
+"Houston Rockets",1981,61.9,7
+"Indiana Pacers",1981,61.0,8
+"Atlanta Hawks",1981,57.1,9
+"Detroit Pistons",1981,56.1,10
+"Chicago Bulls",1981,53.7,11
+"Washington Bullets",1981,52.3,12
+"New York Knicks",1981,46.3,13
+"Dallas Mavericks",1981,39.0,14
+"Cleveland Cavaliers",1981,22.0,15
+"Phoenix Suns",1980,84.4,1
+"Boston Celtics",1980,84.0,2
+"Milwaukee Bucks",1980,81.8,3
+"Portland Trail Blazers",1980,69.8,4
+"Los Angeles Lakers",1980,69.8,4
+"New York Knicks",1980,66.7,6
+"Indiana Pacers",1980,64.3,7
+"Washington Bullets",1980,63.4,8
+"Chicago Bulls",1980,61.4,9
+"Houston Rockets",1980,58.0,10
+"Denver Nuggets",1980,56.1,11
+"Cleveland Cavaliers",1980,48.8,12
+"Atlanta Hawks",1980,48.8,12
+"Detroit Pistons",1980,34.1,14
+"Dallas Mavericks",1980,26.8,15
+"Los Angeles Lakers",1979,88.0,1
+"Phoenix Suns",1979,87.0,2
+"Boston Celtics",1979,82.6,3
+"Atlanta Hawks",1979,76.7,4
+"Houston Rockets",1979,68.9,5
+"Cleveland Cavaliers",1979,68.3,6
+"Milwaukee Bucks",1979,67.4,7
+"Portland Trail Blazers",1979,64.3,8
+"Indiana Pacers",1979,63.4,9
+"New York Knicks",1979,61.0,10
+"Denver Nuggets",1979,58.5,11
+"Washington Bullets",1979,57.1,12
+"Chicago Bulls",1979,51.2,13
+"Detroit Pistons",1979,31.7,14
+"Portland Trail Blazers",1978,81.0,1
+"Atlanta Hawks",1978,80.0,2
+"Phoenix Suns",1978,79.6,3
+"Los Angeles Lakers",1978,75.0,4
+"Houston Rockets",1978,71.4,5
+"Washington Bullets",1978,71.2,6
+"Denver Nuggets",1978,69.8,7
+"Milwaukee Bucks",1978,68.3,8
+"Indiana Pacers",1978,61.0,9
+"New York Knicks",1978,56.1,10
+"Detroit Pistons",1978,53.7,11
+"Boston Celtics",1978,51.2,12
+"Cleveland Cavaliers",1978,48.8,13
+"Chicago Bulls",1978,46.3,14
+"Portland Trail Blazers",1977,86.4,1
+"Phoenix Suns",1977,81.0,2
+"Denver Nuggets",1977,79.2,3
+"Washington Bullets",1977,74.5,4
+"Los Angeles Lakers",1977,71.4,5
+"Chicago Bulls",1977,70.7,6
+"Atlanta Hawks",1977,69.0,7
+"Milwaukee Bucks",1977,68.9,8
+"New York Knicks",1977,68.2,9
+"Cleveland Cavaliers",1977,64.3,10
+"Detroit Pistons",1977,58.5,11
+"Boston Celtics",1977,58.5,11
+"Indiana Pacers",1977,51.2,13
+"Houston Rockets",1977,51.2,13
+"Portland Trail Blazers",1976,100.0,1
+"Chicago Bulls",1976,100.0,1
+"Cleveland Cavaliers",1976,100.0,1
+"Boston Celtics",1976,75.0,4
+"Los Angeles Lakers",1976,66.7,5
+"Denver Nuggets",1976,66.7,5
+"Washington Bullets",1976,60.0,7
+"Houston Rockets",1976,50.0,8
+"Detroit Pistons",1976,0.0,9
+"Boston Celtics",1975,100.0,1
+"Phoenix Suns",1975,77.8,2
+"Cleveland Cavaliers",1975,71.4,3
+"Washington Bullets",1975,66.7,4
+"Milwaukee Bucks",1975,50.0,5
+"Detroit Pistons",1975,50.0,5
+"Washington Bullets",1974,84.0,1
+"Chicago Bulls",1974,72.3,2
+"Houston Rockets",1974,71.1,3
+"Cleveland Cavaliers",1974,70.7,4
+"Boston Celtics",1974,70.2,5
+"Portland Trail Blazers",1974,69.0,6
+"Detroit Pistons",1974,64.3,7
+"Milwaukee Bucks",1974,61.0,8
+"New York Knicks",1974,57.1,9
+"Phoenix Suns",1974,53.7,10
+"Atlanta Hawks",1974,53.7,10
+"Los Angeles Lakers",1974,51.2,12
+"Boston Celtics",1973,81.6,1
+"Milwaukee Bucks",1973,80.4,2
+"Chicago Bulls",1973,75.0,3
+"Los Angeles Lakers",1973,72.1,4
+"Detroit Pistons",1973,70.5,5
+"New York Knicks",1973,66.0,6
+"Phoenix Suns",1973,58.5,7
+"Atlanta Hawks",1973,56.1,8
+"Portland Trail Blazers",1973,53.7,9
+"Houston Rockets",1973,45.2,10
+"Cleveland Cavaliers",1973,43.9,11
+"New York Knicks",1972,85.7,1
+"Milwaukee Bucks",1972,81.8,2
+"Boston Celtics",1972,81.3,3
+"Los Angeles Lakers",1972,74.5,4
+"Chicago Bulls",1972,72.7,5
+"Atlanta Hawks",1972,65.9,6
+"Detroit Pistons",1972,63.4,7
+"Phoenix Suns",1972,53.7,8
+"Houston Rockets",1972,51.2,9
+"Cleveland Cavaliers",1972,48.8,10
+"Portland Trail Blazers",1972,31.7,11
+"Los Angeles Lakers",1971,85.7,1
+"Milwaukee Bucks",1971,78.7,2
+"Boston Celtics",1971,77.1,3
+"Phoenix Suns",1971,73.2,4
+"Chicago Bulls",1971,67.4,5
+"New York Knicks",1971,66.7,6
+"Atlanta Hawks",1971,54.5,7
+"Houston Rockets",1971,45.2,8
+"Detroit Pistons",1971,39.0,9
+"Portland Trail Blazers",1971,35.0,10
+"Cleveland Cavaliers",1971,31.7,11
+"Chicago Bulls",1970,100.0,1
+"Milwaukee Bucks",1970,100.0,1
+"Los Angeles Lakers",1970,83.3,3
+"New York Knicks",1970,71.4,4
+"Atlanta Hawks",1970,0.0,5
+"New York Knicks",1969,75.9,1
+"Chicago Bulls",1969,73.2,2
+"Milwaukee Bucks",1969,70.8,3
+"Atlanta Hawks",1969,68.8,4
+"Los Angeles Lakers",1969,68.6,5
+"Phoenix Suns",1969,64.4,6
+"Detroit Pistons",1969,51.2,7
+"Boston Celtics",1969,50.0,8
+"New York Knicks",1968,83.3,1
+"Los Angeles Lakers",1968,78.0,2
+"Atlanta Hawks",1968,70.7,3
+"Boston Celtics",1968,68.4,4
+"Detroit Pistons",1968,58.5,5
+"Chicago Bulls",1968,50.0,6
+"Milwaukee Bucks",1968,46.3,7
+"Phoenix Suns",1968,29.3,8
+"Los Angeles Lakers",1967,75.0,1
+"Boston Celtics",1967,74.5,2
+"Detroit Pistons",1967,67.5,3
+"New York Knicks",1967,57.1,4
+"Chicago Bulls",1967,41.0,5
+"Boston Celtics",1966,50.0,1
+"Chicago Bulls",1966,0.0,2
+"Los Angeles Lakers",1966,0.0,2
+"New York Knicks",1966,0.0,2
+"Boston Celtics",1965,81.6,1
+"Los Angeles Lakers",1965,72.0,2
+"New York Knicks",1965,63.2,3
+"Detroit Pistons",1965,51.4,4
+"Boston Celtics",1964,92.1,1
+"Los Angeles Lakers",1964,68.3,2
+"Detroit Pistons",1964,52.8,3
+"New York Knicks",1964,50.0,4
+"Boston Celtics",1963,91.3,1
+"Los Angeles Lakers",1963,69.0,2
+"Detroit Pistons",1963,42.1,3
+"New York Knicks",1963,34.2,4
+"Boston Celtics",1962,83.7,1
+"Los Angeles Lakers",1962,80.9,2
+"Detroit Pistons",1962,59.5,3
+"New York Knicks",1962,41.0,4
+"Boston Celtics",1961,75.0,1
+"Detroit Pistons",1961,60.0,2
+"Los Angeles Lakers",1961,50.0,3
+"Boston Celtics",1959,90.7,1
+"Detroit Pistons",1959,59.5,2
+"New York Knicks",1959,45.9,3
+"Boston Celtics",1958,90.2,1
+"New York Knicks",1958,69.4,2
+"Detroit Pistons",1958,54.1,3
+"Boston Celtics",1957,88.6,1
+"New York Knicks",1957,66.7,2
+"Detroit Pistons",1957,58.8,3
+"Boston Celtics",1956,87.8,1
+"New York Knicks",1956,71.1,2
+"Boston Celtics",1955,77.1,1
+"New York Knicks",1955,54.3,2
+"Boston Celtics",1954,82.1,1
+"New York Knicks",1954,75.6,2
+"Boston Celtics",1953,80.0,1
+"New York Knicks",1953,74.4,2
+"Boston Celtics",1952,87.8,1
+"New York Knicks",1952,83.3,2
+"New York Knicks",1951,85.7,1
+"Boston Celtics",1951,78.4,2
+"New York Knicks",1950,83.8,1
+"Boston Celtics",1950,82.9,2
+"Washington Capitols",1950,36.8,3
+"New York Knicks",1949,70.6,1
+"Washington Capitols",1949,61.1,2
+"Boston Celtics",1949,54.8,3
+"Washington Capitols",1948,77.8,1
+"New York Knicks",1948,64.7,2
+"Boston Celtics",1948,60.0,3
+"Washington Capitols",1947,80.0,1
+"New York Knicks",1947,52.0,2
+"Boston Celtics",1947,48.4,3
+"Washington Capitols",1946,90.9,1
+"New York Knicks",1946,62.5,2
+"Boston Celtics",1946,48.3,3
