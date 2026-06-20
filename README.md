@@ -1,5 +1,5 @@
 # 🏀 NBA Data Analysis — Personal SQL Project
-![NBA Dashboard](dashboard.png)
+![NBA Dashboard](NBA_PROJECT_DASHBOARD.png)
 Analyzing trends, team performance, and draft success across NBA history (1950s–2022).
 
 ---
